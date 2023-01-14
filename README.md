@@ -1,6 +1,6 @@
 # Anlyu
 Ancen Lyu's repository for cogs18 final project:
-MDD (maladaptive daydreaming) is a common but often ignored psychological disease. It's definition is stated as 'A person regularly experiences daydreams that are intense and highly distracting.'
+MDD (maladaptive daydreaming) is a common but often ignored psychological disease. It's definition is stated as 'a person regularly experiences daydreams that are intense and highly distracting.'
 
 MDD's common symptoms include: spending hours for daydreaming without doing anything, academic performance and social activities affected by daydreaming, can't distinguish from reality and fantasy etc.
 
